@@ -1,4 +1,2 @@
 # aydinonat.github.io
-Landing page
-
-My academic website
+Very simple landing page with links
