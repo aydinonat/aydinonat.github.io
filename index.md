@@ -10,7 +10,10 @@ Faculty of Social Sciences, University of Helsinki
 
 📘 Editor @ [Journal of Economic Methodology](https://www.tandfonline.com/toc/rjec20/current)
 
-[Personal website](http://aydinonat.github.io/academic)
+🔗 [Personal website](http://neaydinonat.com) (Wordpress.com site, soon to be abandoned)
+
+🔗 [Personal website](http://aydinonat.github.io/academic) (On Github - under construction)
+
 
 🐦 [@aydinonat](https://twitter.com/aydinonat) 
 
