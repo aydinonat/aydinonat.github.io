@@ -1,5 +1,6 @@
 ---
-pagetitle: N. Emrah Aydinonat
+title: N. Emrah Aydinonat
+type: page
 ---
 
-# Hello
+#HELLO
