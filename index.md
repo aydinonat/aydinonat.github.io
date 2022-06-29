@@ -15,5 +15,3 @@ type: page
 🐦 [@aydinonat](https://twitter.com/aydinonat) 
 
 🐦 [@iktisatnedir](https://twitter.com/iktisatnedir) (in Turkish)
-
-[Test](https:/aydinonat.github.io/README.md)
