@@ -3,19 +3,11 @@ title: N. Emrah Aydinonat
 type: page
 ---
 
-🏫 Faculty of Social Sciences, University of Helsinki
+## Welcome! 
 
-🥼 Researcher @ [TINT - Centre for Philosophy of Social Science](http://tint.helsinki.fi/)
+You found my Github-Pages playground! This page was created to test Github Pages. If you are curious, there is a fancier version [here](http://aydinonat.github.io/academic). I'll move my Wordpress site to Github sometime in the future. Until then please visit [neaydinonat.com](http://neaydinonat.com).
 
-📘 Editor @ [Journal of Economic Methodology](https://www.tandfonline.com/toc/rjec20/current)
+---
+_Test links:_
 
-🔗 [Personal website](http://neaydinonat.com) (Wordpress.com site, soon to be abandoned)
-
-🔗 [Github test site](http://aydinonat.github.io/academic) (under construction)
-
-
-🐦 [@aydinonat](https://twitter.com/aydinonat) 
-
-🐦 [@iktisatnedir](https://twitter.com/iktisatnedir) (in Turkish)
-
-[TEST LINK](/testpage.md)
+[TESTPAGE](/testpage.md)
