@@ -2,20 +2,10 @@ theme: jekyll-theme-minimal
 
 title: N. Emrah Aydinonat
 
-description: |
-
-  Faculty of Social Sciences, University of Helsinki
+description: | 
   
-  🥼 Researcher @ [TINT](http://tint.helsinki.fi/)
+  Welcome! You have reached a test page! 
   
-  📘 Editor @ [Journal of Economic Methodology](https://www.tandfonline.com/toc/rjec20/current)
+  I am planning to move my website to Github and I created this page to test Github Pages. 
   
-  
-  🔗 [Website](http://neaydinonat.com) (Wordpress.com site, soon to be abandoned)
-  
-  🚧 [Website on Github](http://aydinonat.github.io/academic)
-  
-  
-  🐦 [@aydinonat](https://twitter.com/aydinonat) 
-  
-  🐦 [@iktisatnedir](https://twitter.com/iktisatnedir) (in Turkish)
+  If you are curious, there is a fancier test page here: https://aydinonat.github.io/academic/ (which is supposed to replace my current Wordpress.com site in the future).
